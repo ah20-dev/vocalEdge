@@ -1,7 +1,7 @@
 # -----------------------------
 # Base image
 # -----------------------------
-FROM python:3.10-slim
+FROM python:3.14-slim
 
 # -----------------------------
 # Install System Dependencies (FFmpeg)
