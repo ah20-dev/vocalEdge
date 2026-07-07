@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+librosa
+praat-parselmouth
+numpy
+ffmpeg-python
+fuzzywuzzy
+python-Levenshtein
+supabase
+openai
+python-dotenv
+pydub
+python-multipart
